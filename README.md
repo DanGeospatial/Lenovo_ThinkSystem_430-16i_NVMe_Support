@@ -23,6 +23,8 @@ Make sure to sort by 'newest'
 ````
 storcli show all
 ````
+![image](https://github.com/user-attachments/assets/f7d9cdf4-cd02-40fd-8e39-460a4367ff62)
+
 
 5. Check the current firmware/bios version of the card:
 ````
