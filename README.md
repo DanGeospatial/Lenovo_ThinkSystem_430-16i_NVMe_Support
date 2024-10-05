@@ -107,5 +107,5 @@ It looks like this plugged into my system:
 
 
 
-## Performance Metrics
+### Performance Metrics
 Please make sure that the HBA does not overheat during use. It is designed to have constant airflow and does not give you temperature information. If it overheats it will not work properly. 
