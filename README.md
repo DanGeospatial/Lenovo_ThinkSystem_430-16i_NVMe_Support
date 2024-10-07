@@ -75,16 +75,19 @@ storcli /c0 show
 ````
 storcli /c0 download file=HBA_9400-16i_Mixed_Profile.bin
 ````
+![FW](https://github.com/user-attachments/assets/bf416ad0-14f2-432e-9c4a-62eb016e5fae)
 
 6. Flash the EFI BIOS:
 ````
 storcli /c0 download efibios file=mpt35sas_x64.rom
 ````
+![EFI](https://github.com/user-attachments/assets/cf714708-c3fd-45b8-86be-82d20be9b247)
 
 7. Flash the BIOS:
 ````
 storcli /c0 download bios file=mpt35sas_legacy.rom
 ````
+![BIOS](https://github.com/user-attachments/assets/bff7252e-2289-4a1f-a3ce-1978d64750bb)
 
 8. Make sure card shows correct information:
 ````
