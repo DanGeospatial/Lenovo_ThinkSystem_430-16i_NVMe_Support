@@ -96,6 +96,9 @@ storcli /c0 show
 
 9. Restart the computer.
 
+![image](https://github.com/user-attachments/assets/a9b650b2-b1e7-433d-bdd7-e779612efab5)
+
+
 ## Cables and Installation
 To get it working with a U.2 drive you need a special U.2 enabler cable. From the Broadcom guide they look like this:
 ![image](https://github.com/user-attachments/assets/bb3a3996-78fb-4ee5-8b65-ca437fbb3d51)
@@ -106,9 +109,12 @@ https://a.co/d/2YVVmCa
 
 DiLiVing LSI94xx Series Dedicated 2*MiniSAS-HD 8X to 2*U.2 NVMe SSD,SFF-8643 72Pin to 2*SFF-8639 68Pin Cable 75cm(Broadcom MPN 05-50065-00/05-50064-00)
 ````
-It looks like this plugged into my system:
-
 
 
 ### Performance Metrics
-Please make sure that the HBA does not overheat during use. It is designed to have constant airflow and does not give you temperature information. If it overheats it will not work properly. 
+Please make sure that the HBA does not overheat during use. It is designed to have constant airflow and does not give you temperature information. If it overheats it will not work properly. My motherboard comes with two temperature probes. I attached one to the inside of the heatsink on the ThinkSystem 430-16i near the chip.
+![image](https://github.com/user-attachments/assets/70020f9a-0be4-49d9-8681-6c775a29a65f)
+
+With a software RAID 0 of two Intel P4510 U.2 drives I get:
+
+
