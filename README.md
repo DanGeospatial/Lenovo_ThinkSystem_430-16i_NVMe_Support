@@ -116,5 +116,6 @@ Please make sure that the HBA does not overheat during use. It is designed to ha
 ![image](https://github.com/user-attachments/assets/70020f9a-0be4-49d9-8681-6c775a29a65f)
 
 With a software RAID 0 of two Intel P4510 U.2 drives I get:
+![image](https://github.com/user-attachments/assets/eaffa31b-9870-4b4a-9388-613efd1bfbbf)
 
 
