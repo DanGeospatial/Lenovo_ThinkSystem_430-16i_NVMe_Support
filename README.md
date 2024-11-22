@@ -113,7 +113,7 @@ DiLiVing LSI94xx Series Dedicated 2*MiniSAS-HD 8X to 2*U.2 NVMe SSD,SFF-8643 72P
 
 
 ### Performance Metrics
-Please make sure that the HBA does not overheat during use. It is designed to have constant airflow and does not give you temperature information. If it overheats it will not work properly. My motherboard comes with two temperature probes. I attached one to the inside of the heatsink on the ThinkSystem 430-16i near the chip.
+Please make sure that the HBA does not overheat during use. It is designed to have constant airflow and will give you temperature information on LSI Storage Authority. If it overheats it will not work properly. My motherboard comes with two temperature probes. I attached one to the inside of the heatsink on the ThinkSystem 430-16i near the chip for fan control.
 
 ![image](https://github.com/user-attachments/assets/70020f9a-0be4-49d9-8681-6c775a29a65f)
 
